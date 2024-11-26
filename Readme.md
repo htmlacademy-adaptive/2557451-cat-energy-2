@@ -4,6 +4,7 @@
 * Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
 fefefe
 Hello
+another text
 
 ---
 
