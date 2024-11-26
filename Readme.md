@@ -9,6 +9,13 @@ another text
 another branch
 +plus commit
 
+gr
+g
+e
+g
+er
+
+
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами для работы над проектом — `source/`.**
